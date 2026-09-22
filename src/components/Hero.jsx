@@ -7,3 +7,5 @@ function Hero() {
       <p>Bienvenido a mi portfolio, donde podrás conocer mis habilidades y proyectos realizados durante mi aprendizaje en programación.</p>
     </div>
   );}
+
+  export default Hero;
