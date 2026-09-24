@@ -1,6 +1,6 @@
 import { proyectos } from "../data/portfolioData";
 
-function ProjectCard({ nombre, descripcion, tecnologias, url }) {
+const ProjectCard = ({ nombre, descripcion, tecnologias, url }) => {
   return (
     <div className="project-card">
       <h3>{nombre}</h3>
@@ -11,7 +11,7 @@ function ProjectCard({ nombre, descripcion, tecnologias, url }) {
   );
 }
 
-function Projects() {
+const Projects = () => {
   return (
     <section className="projects">
       <h2>Proyectos</h2>

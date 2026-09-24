@@ -1,4 +1,4 @@
-function Footer() {
+const Footer = () => {
   return (
     <footer className="footer">
       <p>Contacto: ce.ignacio.rivas@gmail.com</p>

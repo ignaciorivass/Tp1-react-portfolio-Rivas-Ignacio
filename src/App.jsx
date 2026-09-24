@@ -6,10 +6,12 @@ import Projects from "./components/Projects";
 import Footer from "./components/Footer";
 import "./App.css";
 
-function App() {
+const App = () => {
   return (
     <>
-      <Header nombre="Tu Nombre" profesion="Estudiante de Desarrollo Web" />
+    <br />
+      <Header nombre="Ignacio Rivas" profesion="Programador" />
+      <br />
       <Hero />
       <About />
       <Skills />

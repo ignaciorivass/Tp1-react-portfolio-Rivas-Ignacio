@@ -1,6 +1,6 @@
 import { habilidades } from "../data/portfolioData";
 
-function Skills() {
+const Skills = () => {
   return (
     <div className="skills">
       <h2>Habilidades</h2>
