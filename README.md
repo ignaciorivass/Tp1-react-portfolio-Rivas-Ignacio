@@ -25,7 +25,7 @@ Sitio web tipo portfolio que presenta información personal, habilidades y proye
 
 1. Cloná el repositorio:
 ```bash
-git clone https://github.com/tu-usuario/tp1-react-portfolio-rivas-ignacio.git
+git clone https://github.com/ignaciorivass/Tp1-react-portfolio-Rivas-Ignacio.git
 ```
 
 2. Instalá las dependencias:
@@ -38,6 +38,6 @@ npm install
 npm run dev
 ```
 
-## gAutor
+## Autor
 
 Ignacio Rivas - Estudiante de Programación, UTN FR Tucumán
